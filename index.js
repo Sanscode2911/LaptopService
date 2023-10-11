@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 const laptopRoutes = require("./src/routes/LaptopRoute");
 
-app.use("/laptop", laptopRoutes);
+app.use("/laptops", laptopRoutes);
 
 const port = 3036;
 
