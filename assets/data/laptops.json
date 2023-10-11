@@ -2,7 +2,7 @@
     {
       "productName": "Laptop 1",
       "productDescription": "Powerful laptop with high-resolution display",
-      "imgThumbnail": "laptop1.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1001,
       "brand": "Brand A",
       "price": 999.99,
@@ -14,7 +14,7 @@
     {
       "productName": "Laptop 2",
       "productDescription": "Ultra-thin and lightweight laptop for portability",
-      "imgThumbnail": "laptop2.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1002,
       "brand": "Brand B",
       "price": 1299.99,
@@ -26,7 +26,7 @@
     {
       "productName": "Laptop 3",
       "productDescription": "Gaming laptop with powerful graphics",
-      "imgThumbnail": "laptop3.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1003,
       "brand": "Brand C",
       "price": 1499.99,
@@ -38,7 +38,7 @@
     {
       "productName": "Laptop 4",
       "productDescription": "Convertible laptop with touchscreen",
-      "imgThumbnail": "laptop4.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1004,
       "brand": "Brand D",
       "price": 899.99,
@@ -50,7 +50,7 @@
     {
       "productName": "Laptop 5",
       "productDescription": "Budget-friendly laptop for everyday use",
-      "imgThumbnail": "laptop5.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1005,
       "brand": "Brand E",
       "price": 599.99,
@@ -62,7 +62,7 @@
     {
       "productName": "Laptop 6",
       "productDescription": "High-performance laptop with SSD",
-      "imgThumbnail": "laptop6.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1006,
       "brand": "Brand F",
       "price": 1099.99,
@@ -74,7 +74,7 @@
     {
       "productName": "Laptop 7",
       "productDescription": "Laptop with long battery life",
-      "imgThumbnail": "laptop7.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1007,
       "brand": "Brand G",
       "price": 799.99,
@@ -86,7 +86,7 @@
     {
       "productName": "Laptop 8",
       "productDescription": "Professional laptop for business users",
-      "imgThumbnail": "laptop8.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1008,
       "brand": "Brand H",
       "price": 1399.99,
@@ -98,7 +98,7 @@
     {
       "productName": "Laptop 9",
       "productDescription": "Laptop with 4K display and fast processor",
-      "imgThumbnail": "laptop9.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1009,
       "brand": "Brand I",
       "price": 1699.99,
@@ -110,7 +110,7 @@
     {
       "productName": "Laptop 10",
       "productDescription": "Sleek and stylish laptop with premium design",
-      "imgThumbnail": "laptop10.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1010,
       "brand": "Brand J",
       "price": 1099.99,
@@ -122,7 +122,7 @@
     {
       "productName": "Laptop 11",
       "productDescription": "Gaming laptop with RGB lighting and high refresh rate",
-      "imgThumbnail": "laptop11.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1011,
       "brand": "Brand K",
       "price": 1599.99,
@@ -134,7 +134,7 @@
     {
       "productName": "Laptop 12",
       "productDescription": "Convertible laptop with stylus pen support",
-      "imgThumbnail": "laptop12.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1012,
       "brand": "Brand L",
       "price": 949.99,
@@ -146,7 +146,7 @@
     {
       "productName": "Laptop 13",
       "productDescription": "Laptop with dedicated graphics for multimedia",
-      "imgThumbnail": "laptop13.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1013,
       "brand": "Brand M",
       "price": 1199.99,
@@ -158,7 +158,7 @@
     {
       "productName": "Laptop 14",
       "productDescription": "Affordable laptop with solid performance",
-      "imgThumbnail": "laptop14.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1014,
       "brand": "Brand N",
       "price": 699.99,
@@ -170,7 +170,7 @@
     {
       "productName": "Laptop 15",
       "productDescription": "High-end laptop with premium materials",
-      "imgThumbnail": "laptop15.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1015,
       "brand": "Brand O",
       "price": 1799.99,
@@ -182,7 +182,7 @@
     {
       "productName": "Laptop 16",
       "productDescription": "Laptop with fast SSD and ample storage",
-      "imgThumbnail": "laptop16.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1016,
       "brand": "Brand P",
       "price": 1099.99,
@@ -194,7 +194,7 @@
     {
       "productName": "Laptop 17",
       "productDescription": "Budget gaming laptop with good performance",
-      "imgThumbnail": "laptop17.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1017,
       "brand": "Brand Q",
       "price": 999.99,
@@ -206,7 +206,7 @@
     {
       "productName": "Laptop 18",
       "productDescription": "Laptop with advanced cooling system",
-      "imgThumbnail": "laptop18.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1018,
       "brand": "Brand R",
       "price": 1299.99,
@@ -218,7 +218,7 @@
     {
       "productName": "Laptop 19",
       "productDescription": "Compact and portable laptop for travel",
-      "imgThumbnail": "laptop19.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1019,
       "brand": "Brand S",
       "price": 799.99,
@@ -230,7 +230,7 @@
     {
       "productName": "Laptop 20",
       "productDescription": "Laptop with excellent audio and webcam",
-      "imgThumbnail": "laptop20.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1020,
       "brand": "Brand T",
       "price": 1199.99,
@@ -242,7 +242,7 @@
     {
       "productName": "Laptop 21",
       "productDescription": "Thin and lightweight laptop with long battery life",
-      "imgThumbnail": "laptop21.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1021,
       "brand": "Brand U",
       "price": 999.99,
@@ -254,7 +254,7 @@
     {
       "productName": "Laptop 22",
       "productDescription": "Laptop with 2-in-1 design and touchscreen",
-      "imgThumbnail": "laptop22.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1022,
       "brand": "Brand V",
       "price": 1099.99,
@@ -266,7 +266,7 @@
     {
       "productName": "Laptop 23",
       "productDescription": "High-performance laptop with discrete GPU",
-      "imgThumbnail": "laptop23.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1023,
       "brand": "Brand W",
       "price": 1499.99,
@@ -278,7 +278,7 @@
     {
       "productName": "Laptop 24",
       "productDescription": "Laptop with ergonomic keyboard and large touchpad",
-      "imgThumbnail": "laptop24.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1024,
       "brand": "Brand X",
       "price": 1199.99,
@@ -290,7 +290,7 @@
     {
       "productName": "Laptop 25",
       "productDescription": "Budget-friendly laptop with decent performance",
-      "imgThumbnail": "laptop25.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1025,
       "brand": "Brand Y",
       "price": 699.99,
@@ -302,7 +302,7 @@
     {
       "productName": "Laptop 26",
       "productDescription": "Laptop with 4K OLED display and fast CPU",
-      "imgThumbnail": "laptop26.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1026,
       "brand": "Brand Z",
       "price": 1699.99,
@@ -314,7 +314,7 @@
     {
       "productName": "Laptop 27",
       "productDescription": "Versatile laptop with detachable keyboard",
-      "imgThumbnail": "laptop27.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1027,
       "brand": "Brand AA",
       "price": 999.99,
@@ -326,7 +326,7 @@
     {
       "productName": "Laptop 28",
       "productDescription": "Gaming laptop with high refresh rate and RGB keyboard",
-      "imgThumbnail": "laptop28.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1028,
       "brand": "Brand BB",
       "price": 1599.99,
@@ -338,7 +338,7 @@
     {
       "productName": "Laptop 29",
       "productDescription": "Laptop with durable build and rugged design",
-      "imgThumbnail": "laptop29.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1029,
       "brand": "Brand CC",
       "price": 1299.99,
@@ -350,7 +350,7 @@
     {
       "productName": "Laptop 30",
       "productDescription": "Premium laptop with exceptional display quality",
-      "imgThumbnail": "laptop30.jpg",
+      "imgThumbnail": "assets/laptop.jpg",
       "productId": 1030,
       "brand": "Brand DD",
       "price": 1899.99,
