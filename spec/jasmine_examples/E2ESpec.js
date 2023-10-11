@@ -20,14 +20,14 @@ describe('End-to-End Tests', () => {
   });
 
   it('should get team details', async () => {
-    const response = await axios.get('http://localhost:3034/laptop/team');
+    const response = await axios.get('http://localhost:3036/laptop/team');
     expect(response.status).toBe(200);
     expect(response.data.team).toBe('backend4-laptopTeam');
     // Add more assertions as needed
   });
 
   it('should get laptop details for a location', async () => {
-    const response = await axios.get('http://localhost:3034/laptop/all/US-NC');
+    const response = await axios.get('http://localhost:3036/laptop/all/US-NC');
     expect(response.status).toBe(200);
     expect(response.data.error).toBe(false);
     // Add more assertions as needed
@@ -47,7 +47,7 @@ describe('End-to-End Tests', () => {
         .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
         .join('&');
   
-      const url = `http://localhost:3034/laptop/all/${location}?${queryParams}`;
+      const url = `http://localhost:3036/laptop/all/${location}?${queryParams}`;
   
       const response = await axios.get(url);
   

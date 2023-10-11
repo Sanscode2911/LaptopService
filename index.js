@@ -11,7 +11,7 @@ const laptopRoutes = require("./src/routes/LaptopRoute");
 
 app.use("/laptop", laptopRoutes);
 
-const port = 3034;
+const port = 3036;
 app.listen(port,()=>{
-    console.log("Server is running at port 3034...");
+    console.log("Server is running at port 3036...");
 });
