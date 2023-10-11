@@ -74,6 +74,40 @@ describe('LaptopController Tests', () => {
       getLaptopDetails(req, res);
     });
 
-    // Add more test cases for getLaptopDetails as needed
+    it('should handle invalid location', () => {
+      const req = { params: { location: 'InvalidLocation' } };
+      const res = {
+        status: (statusCode) => ({
+          json: (data) => {
+            expect(statusCode).toBe(404);
+            expect(data.error).toBe(true);
+            expect(data.message).toBe('unsuccessful get request!');
+            expect(data.data).toBe(null);
+          },
+        }),
+      };
+
+      getLaptopDetails(req, res);
+    });
+
+    it('should handle invalid optional parameters', () => {
+      const req = {
+        params: { location: 'US-NC' },
+        query: { minprice: 'invalid', maxprice: 'invalid', rating: 'invalid' },
+      };
+      const res = {
+        status: (statusCode) => ({
+          json: (data) => {
+            expect(statusCode).toBe(200);
+            expect(data.error).toBe(false);
+            expect(data.message).toBe('successful retrieval!');
+            // Add assertions based on the expected data without filtering
+          },
+        }),
+      };
+
+      getLaptopDetails(req, res);
+    });
+
   });
 });

@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 
 const laptopRoutes = require("./src/routes/LaptopRoute");
 
-app.use("/api", laptopRoutes);
+app.use("/laptop", laptopRoutes);
 
 const port = 3034;
 app.listen(port,()=>{

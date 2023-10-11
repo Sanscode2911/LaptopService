@@ -10,7 +10,7 @@ router
     .route("/team")
     .get(getTeamDetails);
 
-router.route("/laptop/:location")
+router.route("/all/:location")
         .get(getLaptopDetails);
 
  console.log("LaptopRoute loaded");
