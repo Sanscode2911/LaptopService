@@ -7,14 +7,14 @@ exports.getTeamDetails = (req,res) =>{
 const fs = require("fs");
 
 let data = fs.readFileSync("./assets/data/laptops.json");
-
 const locations = ["US-NC", "IE", "IN"];
-const location_laptop_tax = [0.08, 0.23, 0.18]; 
+const location_laptop_tax = [0.08, 0.23, 0.18];
 
+console.log(data);
 const laptop = JSON.parse(data);
 
 exports.getLaptopDetails = (req, res) => {
-    let loc = req.query.location;
+    let loc = req.params.location;  // Extract location from path parameter
     let laptops;
 
     if (locations.includes(loc)) {
@@ -40,12 +40,13 @@ exports.getLaptopDetails = (req, res) => {
         }
 
         // Optional parameters
-        const minPrice = parseFloat(req.query.minprice);
-        const maxPrice = parseFloat(req.query.maxprice);
-        const rating = parseFloat(req.query.rating);
-        const brand = req.query.brand;
+        const minPrice = parseFloat(req.query?.minprice);
+        const maxPrice = parseFloat(req.query?.maxprice);
+        const rating = parseFloat(req.query?.rating);
+        const brand = req.query?.brand;
 
         // Filter laptops based on optional parameters
+       
         if (!isNaN(minPrice)) {
             laptops = laptops.filter(e => e.price >= minPrice);
         }
@@ -61,6 +62,7 @@ exports.getLaptopDetails = (req, res) => {
         if (brand) {
             laptops = laptops.filter(e => e.brand.toLowerCase() === brand.toLowerCase());
         }
+
 
         res.status(200).json({
             error: false,
