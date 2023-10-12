@@ -1,7 +1,7 @@
 exports.getTeamDetails = (req,res) =>{
     return res.status(200).json({
         team: "backend4-laptopTeam",
-    memberNames: ["Sanskar Agarwal", "Poorvi Dalwai"],
+    membersNames: ["Sanskar Agarwal", "Poorvi Dalwai"],
     });
 };
 const fs = require("fs");
@@ -25,20 +25,17 @@ exports.getLaptopDetails = (req, res) => {
             laptops.forEach((e) => {
                 e.price = e.price + 0.08 * e.price;
                 e.price = e.price.toFixed(3);
-                e.tax_percentage = 8;
             });
         } else if (locations.indexOf(loc) === 1) {
             laptops.forEach((e) => {
                 e.price = e.price + 0.23 * e.price;
                 e.price = e.price.toFixed(3);
-                e.tax_percentage = 23;
             });
         } else if (locations.indexOf(loc) === 2) {
             laptops.forEach((e) => {
                 e.price = e.price * 82.2; // Convert to INR
                 e.price = e.price + 0.18 * e.price;
                 e.price = e.price.toFixed(3);
-                e.tax_percentage = 18;
             });
         }
 
@@ -67,8 +64,16 @@ exports.getLaptopDetails = (req, res) => {
         }
 
 
-        res.status(200).send(laptops);
+        res.status(200).json({
+            error: false,
+            message: "successful retrieval!",
+            data: laptops,
+        });
     } else {
-        res.status(404).send(null);
+        res.status(404).json({
+            error: true,
+            message: "unsuccessful get request!",
+            data: null,
+        });
     }
 };
