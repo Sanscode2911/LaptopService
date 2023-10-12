@@ -1,8 +1,8 @@
 [
     {
-      "product_name": "Laptop 1",
+      "product_name": "Dell inpirion 5z",
       "product_description": "Powerful laptop with high-resolution display",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
+      "img_thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fdell-client-products%2Fnotebooks%2Fg-series%2Fg16-7630%2Fmedia-gallery%2Fwhite%2Fnotebook-g16-7630-nt-white-gallery-1.psd%3Ffmt%3Dpjpg%26pscan%3Dauto%26scl%3D1%26wid%3D3500%26hei%3D2625%26qlt%3D100%2C1%26resMode%3Dsharp2%26size%3D3500%2C2625%26chrss%3Dfull%26imwidth%3D5000&tbnid=UZ7BzOL4OqdJDM&vet=12ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygBegUIARCpAQ..i&imgrefurl=https%3A%2F%2Fwww.dell.com%2Fen-sg%2Fshop%2Flaptop-notebook-computers%2Fg16-gaming-laptop%2Fspd%2Fg-series-16-7630-laptop&docid=N6R1tIQrt89w9M&w=3500&h=2625&q=dell%20laptop&ved=2ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygBegUIARCpAQ",
       "product_id": 1001,
       "brand": "Dell",
       "price": 999.99,
@@ -12,7 +12,7 @@
       "timestamp": "05/12/2022"
     },
     {
-      "product_name": "Laptop 2",
+      "product_name": "Dell inpirion 100z",
       "product_description": "Ultra-thin and lightweight laptop for portability",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schenker_VIA14_Laptop_asv2021-01.jpg/640px-Schenker_VIA14_Laptop_asv2021-01.jpg",
       "product_id": 1002,
@@ -24,9 +24,9 @@
       "timestamp": "10/06/2022"
     },
     {
-      "product_name": "Laptop 3",
+      "product_name": "Dell Gbp",
       "product_description": "Gaming laptop with powerful graphics",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lenovo_G500s_laptop-2905.jpg/640px-Lenovo_G500s_laptop-2905.jpg",
+      "img_thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fdell-client-products%2Fnotebooks%2Flatitude-notebooks%2Flatitude-15-5540-laptop%2Fmedia-gallery%2Fnotebook-latitude-15-5540-t-ir-silver-gallery-5.psd%3Ffmt%3Dpng-alpha%26pscan%3Dauto%26scl%3D1%26hei%3D402%26wid%3D649%26qlt%3D100%2C1%26resMode%3Dsharp2%26size%3D649%2C402%26chrss%3Dfull&tbnid=SE74v2m1OlbiEM&vet=12ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygGegUIARC1AQ..i&imgrefurl=https%3A%2F%2Fwww.dell.com%2Fen-sg%2Fshop%2Flaptop-notebook-computers%2Flatitude-5540-laptop%2Fspd%2Flatitude-15-5540-laptop%2Fal5540gctosg_vp&docid=vNeM3VBDFsp3gM&w=649&h=402&q=dell%20laptop&ved=2ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygGegUIARC1AQ",
       "product_id": 1003,
       "brand": "Dell",
       "price": 1499.99,
