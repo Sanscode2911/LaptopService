@@ -64,16 +64,8 @@ exports.getLaptopDetails = (req, res) => {
         }
 
 
-        res.status(200).json({
-            error: false,
-            message: "successful retrieval!",
-            data: laptops,
-        });
+        res.status(200).send(laptops);
     } else {
-        res.status(404).json({
-            error: true,
-            message: "unsuccessful get request!",
-            data: null,
-        });
+        res.status(404).send(null);
     }
 };
