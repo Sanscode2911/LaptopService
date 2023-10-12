@@ -2,7 +2,7 @@
     {
       "product_name": "Dell inpirion 5z",
       "product_description": "Powerful laptop with high-resolution display",
-      "img_thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fdell-client-products%2Fnotebooks%2Fg-series%2Fg16-7630%2Fmedia-gallery%2Fwhite%2Fnotebook-g16-7630-nt-white-gallery-1.psd%3Ffmt%3Dpjpg%26pscan%3Dauto%26scl%3D1%26wid%3D3500%26hei%3D2625%26qlt%3D100%2C1%26resMode%3Dsharp2%26size%3D3500%2C2625%26chrss%3Dfull%26imwidth%3D5000&tbnid=UZ7BzOL4OqdJDM&vet=12ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygBegUIARCpAQ..i&imgrefurl=https%3A%2F%2Fwww.dell.com%2Fen-sg%2Fshop%2Flaptop-notebook-computers%2Fg16-gaming-laptop%2Fspd%2Fg-series-16-7630-laptop&docid=N6R1tIQrt89w9M&w=3500&h=2625&q=dell%20laptop&ved=2ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygBegUIARCpAQ",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lenovo_V330_%282%29.jpg/640px-Lenovo_V330_%282%29.jpg",
       "product_id": 1001,
       "brand": "Dell",
       "price": 999.99,
@@ -26,7 +26,7 @@
     {
       "product_name": "Dell Gbp",
       "product_description": "Gaming laptop with powerful graphics",
-      "img_thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fdell-client-products%2Fnotebooks%2Flatitude-notebooks%2Flatitude-15-5540-laptop%2Fmedia-gallery%2Fnotebook-latitude-15-5540-t-ir-silver-gallery-5.psd%3Ffmt%3Dpng-alpha%26pscan%3Dauto%26scl%3D1%26hei%3D402%26wid%3D649%26qlt%3D100%2C1%26resMode%3Dsharp2%26size%3D649%2C402%26chrss%3Dfull&tbnid=SE74v2m1OlbiEM&vet=12ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygGegUIARC1AQ..i&imgrefurl=https%3A%2F%2Fwww.dell.com%2Fen-sg%2Fshop%2Flaptop-notebook-computers%2Flatitude-5540-laptop%2Fspd%2Flatitude-15-5540-laptop%2Fal5540gctosg_vp&docid=vNeM3VBDFsp3gM&w=649&h=402&q=dell%20laptop&ved=2ahUKEwjPy4O69O-BAxUXwqACHcMSDcQQMygGegUIARC1AQ",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:A_black_Sony_Vaio_C_Series_Laptop.jpg",
       "product_id": 1003,
       "brand": "Dell",
       "price": 1499.99,
@@ -36,7 +36,7 @@
       "timestamp": "15/09/2022"
     },
     {
-      "product_name": "Laptop 4",
+      "product_name": "Dell Brainz",
       "product_description": "Convertible laptop with touchscreen",
       "img_thumbnail": "assets/laptop.jpg",
       "product_id": 1004,
@@ -48,7 +48,7 @@
       "timestamp": "22/04/2022"
     },
     {
-      "product_name": "Laptop 5",
+      "product_name": "Dell yoga",
       "product_description": "Budget-friendly laptop for everyday use",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schenker_VIA14_Laptop_asv2021-01.jpg/640px-Schenker_VIA14_Laptop_asv2021-01.jpg",
       "product_id": 1005,
@@ -60,7 +60,7 @@
       "timestamp": "30/07/2022"
     },
     {
-      "product_name": "Laptop 6",
+      "product_name": "Lenovo convert",
       "product_description": "High-performance laptop with SSD",
       "img_thumbnail": "assets/laptop.jpg",
       "product_id": 1006,
@@ -72,9 +72,9 @@
       "timestamp": "12/11/2022"
     },
     {
-      "product_name": "Laptop 7",
+      "product_name": "Lenovo Hunter",
       "product_description": "Laptop with long battery life",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schenker_VIA14_Laptop_asv2021-01.jpg/640px-Schenker_VIA14_Laptop_asv2021-01.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:HP_Laptop_Notebook.png",
       "product_id": 1007,
       "brand": "Microsoft",
       "price": 799.99,
@@ -84,9 +84,9 @@
       "timestamp": "08/03/2022"
     },
     {
-      "product_name": "Laptop 8",
+      "product_name": "Lenovo super",
       "product_description": "Professional laptop for business users",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:InspironN5110Open.png",
       "product_id": 1008,
       "brand": "Dell",
       "price": 1399.99,
@@ -96,9 +96,9 @@
       "timestamp": "20/01/2022"
     },
     {
-      "product_name": "Laptop 9",
+      "product_name": "Lenovo R8",
       "product_description": "Laptop with 4K display and fast processor",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Dell_Inspiron_1525_250618.jpg",
       "product_id": 1009,
       "brand": "Asus",
       "price": 1699.99,
@@ -108,9 +108,9 @@
       "timestamp": "18/08/2022"
     },
     {
-      "product_name": "Laptop 10",
+      "product_name": "Lenovo Jiva",
       "product_description": "Sleek and stylish laptop with premium design",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schenker_VIA14_Laptop_asv2021-01.jpg/640px-Schenker_VIA14_Laptop_asv2021-01.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Dell_XPS_M1330.jpg",
       "product_id": 1010,
       "brand": "Asus",
       "price": 1099.99,
@@ -120,7 +120,7 @@
       "timestamp": "14/05/2022"
     },
     {
-      "product_name": "Laptop 11",
+      "product_name": "Asus hunter",
       "product_description": "Gaming laptop with RGB lighting and high refresh rate",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
       "product_id": 1011,
@@ -132,7 +132,7 @@
       "timestamp": "02/09/2022"
     },
     {
-      "product_name": "Laptop 12",
+      "product_name": "Asus revive",
       "product_description": "Convertible laptop with stylus pen support",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lenovo_G500s_laptop-2903.jpg/640px-Lenovo_G500s_laptop-2903.jpg",
       "product_id": 1012,
@@ -144,7 +144,7 @@
       "timestamp": "27/12/2022"
     },
     {
-      "product_name": "Laptop 13",
+      "product_name": "Asus 800z",
       "product_description": "Laptop with dedicated graphics for multimedia",
       "img_thumbnail": "assets/laptop.jpg",
       "product_id": 1013,
@@ -156,7 +156,7 @@
       "timestamp": "11/07/2022"
     },
     {
-      "product_name": "Laptop 14",
+      "product_name": "Asus 7j900",
       "product_description": "Affordable laptop with solid performance",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
       "product_id": 1014,
@@ -168,9 +168,9 @@
       "timestamp": "19/04/2022"
     },
     {
-      "product_name": "Laptop 15",
+      "product_name": "Asus CGU",
       "product_description": "High-end laptop with premium materials",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
       "product_id": 1015,
       "brand": "Lenovo",
       "price": 1799.99,
@@ -180,9 +180,9 @@
       "timestamp": "25/10/2022"
     },
     {
-      "product_name": "Laptop 16",
+      "product_name": "Macbook pro",
       "product_description": "Laptop with fast SSD and ample storage",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
       "product_id": 1016,
       "brand": "Mac",
       "price": 1099.99,
@@ -192,7 +192,7 @@
       "timestamp": "03/02/2022"
     },
     {
-      "product_name": "Laptop 17",
+      "product_name": "Gb 9z",
       "product_description": "Budget gaming laptop with good performance",
       "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
       "product_id": 1017,
@@ -204,11 +204,11 @@
       "timestamp": "07/08/2022"
     },
     {
-      "product_name": "Laptop 18",
+      "product_name": "Macbook m2",
       "product_description": "Laptop with advanced cooling system",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:2008_MacBook_Aluminium.jpg",
       "product_id": 1018,
-      "brand": "Microsoft",
+      "brand": "Mac",
       "price": 1299.99,
       "tax_percentage": 8.1,
       "rating": 4.2,
@@ -216,9 +216,9 @@
       "timestamp": "13/03/2022"
     },
     {
-      "product_name": "Laptop 19",
+      "product_name": "Surface pro",
       "product_description": "Compact and portable laptop for travel",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
       "product_id": 1019,
       "brand": "Microsoft",
       "price": 799.99,
@@ -228,9 +228,9 @@
       "timestamp": "21/01/2022"
     },
     {
-      "product_name": "Laptop 20",
+      "product_name": "Macbook M2 pro",
       "product_description": "Laptop with excellent audio and webcam",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
       "product_id": 1020,
       "brand": "Mac",
       "price": 1199.99,
@@ -240,9 +240,9 @@
       "timestamp": "09/05/2022"
     },
     {
-      "product_name": "Laptop 21",
+      "product_name": "Yoga pro",
       "product_description": "Thin and lightweight laptop with long battery life",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
       "product_id": 1021,
       "brand": "Lenovo",
       "price": 999.99,
@@ -252,9 +252,9 @@
       "timestamp": "04/10/2022"
     },
     {
-      "product_name": "Laptop 22",
+      "product_name": "Yoga 100",
       "product_description": "Laptop with 2-in-1 design and touchscreen",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
       "product_id": 1022,
       "brand": "Lenovo",
       "price": 1099.99,
@@ -264,9 +264,9 @@
       "timestamp": "26/06/2022"
     },
     {
-      "product_name": "Laptop 23",
+      "product_name": "Surface 10D",
       "product_description": "High-performance laptop with discrete GPU",
-      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg/640px-Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2.jpg",
       "product_id": 1023,
       "brand": "HP",
       "price": 1499.99,
@@ -276,8 +276,8 @@
       "timestamp": "16/12/2022"
     },
     {
-      "product_name": "Laptop 24",
-      "product_description": "Laptop with ergonomic keyboard and large touchpad",
+      "product_name": "SurfaceR2",
+      "product_description": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
       "img_thumbnail": "assets/laptop.jpg",
       "product_id": 1024,
       "brand": "HP",
@@ -288,9 +288,9 @@
       "timestamp": "14/09/2022"
     },
     {
-      "product_name": "Laptop 25",
+      "product_name": "Surface 10z",
       "product_description": "Budget-friendly laptop with decent performance",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
       "product_id": 1025,
       "brand": "HP",
       "price": 699.99,
@@ -300,11 +300,11 @@
       "timestamp": "01/03/2022"
     },
     {
-      "product_name": "Laptop 26",
+      "product_name": "Toshiba 100",
       "product_description": "Laptop with 4K OLED display and fast CPU",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
       "product_id": 1026,
-      "brand": "Mac",
+      "brand": "Toshiba",
       "price": 1699.99,
       "tax_percentage": 9.1,
       "rating": 4.9,
@@ -312,9 +312,9 @@
       "timestamp": "29/07/2022"
     },
     {
-      "product_name": "Laptop 27",
+      "product_name": "Surface 50R",
       "product_description": "Versatile laptop with detachable keyboard",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
       "product_id": 1027,
       "brand": "Microsoft",
       "price": 999.99,
@@ -324,9 +324,9 @@
       "timestamp": "17/11/2022"
     },
     {
-      "product_name": "Laptop 28",
+      "product_name": "Notebook",
       "product_description": "Gaming laptop with high refresh rate and RGB keyboard",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
       "product_id": 1028,
       "brand": "Xiaomi",
       "price": 1599.99,
@@ -336,9 +336,9 @@
       "timestamp": "06/05/2022"
     },
     {
-      "product_name": "Laptop 29",
+      "product_name": "note100",
       "product_description": "Laptop with durable build and rugged design",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2.jpg",
       "product_id": 1029,
       "brand": "Samsung",
       "price": 1299.99,
@@ -348,9 +348,9 @@
       "timestamp": "23/02/2022"
     },
     {
-      "product_name": "Laptop 30",
+      "product_name": "GenZ",
       "product_description": "Premium laptop with exceptional display quality",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
       "product_id": 1030,
       "brand": "Dell",
       "price": 1899.99,
