@@ -26,7 +26,7 @@
     {
       "product_name": "Dell Gbp",
       "product_description": "Gaming laptop with powerful graphics",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:A_black_Sony_Vaio_C_Series_Laptop.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dell_Inspiron_14_3421_Laptop.jpg",
       "product_id": 1003,
       "brand": "Dell",
       "price": 1499.99,
@@ -38,7 +38,7 @@
     {
       "product_name": "Dell Brainz",
       "product_description": "Convertible laptop with touchscreen",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dell_Vostro_14_5000_Series_Laptop.jpg",
       "product_id": 1004,
       "brand": "Xiaomi",
       "price": 899.99,
@@ -62,7 +62,7 @@
     {
       "product_name": "Lenovo convert",
       "product_description": "High-performance laptop with SSD",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lenovo_V330_%281%29.jpg",
       "product_id": 1006,
       "brand": "HP",
       "price": 1099.99,
@@ -74,7 +74,7 @@
     {
       "product_name": "Lenovo Hunter",
       "product_description": "Laptop with long battery life",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:HP_Laptop_Notebook.png",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lenovo_V330_%281%29.jpg",
       "product_id": 1007,
       "brand": "Microsoft",
       "price": 799.99,
@@ -86,7 +86,7 @@
     {
       "product_name": "Lenovo super",
       "product_description": "Professional laptop for business users",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:InspironN5110Open.png",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lenovo_IdeaPad_Flex14_laptop.jpg",
       "product_id": 1008,
       "brand": "Dell",
       "price": 1399.99,
@@ -98,7 +98,7 @@
     {
       "product_name": "Lenovo R8",
       "product_description": "Laptop with 4K display and fast processor",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Dell_Inspiron_1525_250618.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lenovo_IdeaPad_Flex14_laptop.jpg",
       "product_id": 1009,
       "brand": "Asus",
       "price": 1699.99,
@@ -110,7 +110,7 @@
     {
       "product_name": "Lenovo Jiva",
       "product_description": "Sleek and stylish laptop with premium design",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Dell_XPS_M1330.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lenovo_G500s_laptop-2903.jpg",
       "product_id": 1010,
       "brand": "Asus",
       "price": 1099.99,
@@ -146,7 +146,7 @@
     {
       "product_name": "Asus 800z",
       "product_description": "Laptop with dedicated graphics for multimedia",
-      "img_thumbnail": "assets/laptop.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/33/Laptop_3.jpg",
       "product_id": 1013,
       "brand": "Samsung",
       "price": 1199.99,
@@ -182,7 +182,7 @@
     {
       "product_name": "Macbook pro",
       "product_description": "Laptop with fast SSD and ample storage",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9f/M2_Macbook_Air_Starlight_model.jpg",
       "product_id": 1016,
       "brand": "Mac",
       "price": 1099.99,
@@ -206,7 +206,7 @@
     {
       "product_name": "Macbook m2",
       "product_description": "Laptop with advanced cooling system",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:2008_MacBook_Aluminium.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9f/M2_Macbook_Air_Starlight_model.jpg",
       "product_id": 1018,
       "brand": "Mac",
       "price": 1299.99,
@@ -218,7 +218,7 @@
     {
       "product_name": "Surface pro",
       "product_description": "Compact and portable laptop for travel",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/36/Surface_Laptop_Studio_-_3.jpg",
       "product_id": 1019,
       "brand": "Microsoft",
       "price": 799.99,
@@ -230,7 +230,7 @@
     {
       "product_name": "Macbook M2 pro",
       "product_description": "Laptop with excellent audio and webcam",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Macbook_Side_(3011438142).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9f/M2_Macbook_Air_Starlight_model.jpg",
       "product_id": 1020,
       "brand": "Mac",
       "price": 1199.99,
@@ -242,7 +242,7 @@
     {
       "product_name": "Yoga pro",
       "product_description": "Thin and lightweight laptop with long battery life",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lenovo_Yoga_530_Opening_English_Wikipedia.jpg",
       "product_id": 1021,
       "brand": "Lenovo",
       "price": 999.99,
@@ -254,7 +254,7 @@
     {
       "product_name": "Yoga 100",
       "product_description": "Laptop with 2-in-1 design and touchscreen",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lenovo_Yoga_530_Opening_English_Wikipedia.jpg",
       "product_id": 1022,
       "brand": "Lenovo",
       "price": 1099.99,
@@ -266,7 +266,7 @@
     {
       "product_name": "Surface 10D",
       "product_description": "High-performance laptop with discrete GPU",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
       "product_id": 1023,
       "brand": "HP",
       "price": 1499.99,
@@ -277,7 +277,7 @@
     },
     {
       "product_name": "SurfaceR2",
-      "product_description": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro_7.jpg",
+      "product_description": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
       "img_thumbnail": "assets/laptop.jpg",
       "product_id": 1024,
       "brand": "HP",
@@ -290,7 +290,7 @@
     {
       "product_name": "Surface 10z",
       "product_description": "Budget-friendly laptop with decent performance",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/HP_Laptop_14S.jpg",
       "product_id": 1025,
       "brand": "HP",
       "price": 699.99,
@@ -302,7 +302,7 @@
     {
       "product_name": "Toshiba 100",
       "product_description": "Laptop with 4K OLED display and fast CPU",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Toshiba_Qosmio_X70-A-12N_PSPLTE-2897.jpg",
       "product_id": 1026,
       "brand": "Toshiba",
       "price": 1699.99,
@@ -314,7 +314,7 @@
     {
       "product_name": "Surface 50R",
       "product_description": "Versatile laptop with detachable keyboard",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Surface_Laptop_Studio_-_2.jpg",
       "product_id": 1027,
       "brand": "Microsoft",
       "price": 999.99,
@@ -326,7 +326,7 @@
     {
       "product_name": "Notebook",
       "product_description": "Gaming laptop with high refresh rate and RGB keyboard",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Surface_Laptop_Studio_-_2.jpg",
       "product_id": 1028,
       "brand": "Xiaomi",
       "price": 1599.99,
@@ -338,7 +338,7 @@
     {
       "product_name": "note100",
       "product_description": "Laptop with durable build and rugged design",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2.jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Statistics_on_a_laptop_%28Unsplash%29.jpg",
       "product_id": 1029,
       "brand": "Samsung",
       "price": 1299.99,
@@ -350,7 +350,7 @@
     {
       "product_name": "GenZ",
       "product_description": "Premium laptop with exceptional display quality",
-      "img_thumbnail": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_2_running_Windows_8_(12907561955).jpg",
+      "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Statistics_on_a_laptop_%28Unsplash%29.jpg",
       "product_id": 1030,
       "brand": "Dell",
       "price": 1899.99,
